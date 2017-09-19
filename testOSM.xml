@@ -1,0 +1,7 @@
+	<way id="5149035" version="1">
+		<nd ref="301318940"/>
+		<tag k="foot" v="yes"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="path"/>
+		<tag k="surface" v="dirt"/>
+	</way>

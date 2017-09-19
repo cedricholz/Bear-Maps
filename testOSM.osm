@@ -1,0 +1,16 @@
+<osm version="0.6" generator="osmconvert 0.8.4">
+	<bounds minlat="37.821" minlon="-122.3269999" maxlat="37.893" maxlon="-122.1889997"/>	
+	<way id="5149035" version="1">
+		<nd ref="35706118"/>
+		<nd ref="35706462"/>
+		<nd ref="35706463"/>
+		<nd ref="35706464"/>
+		<nd ref="35706465"/>
+		<nd ref="35706466"/>
+		<nd ref="35706467"/>
+		<nd ref="301318940"/>
+		<tag k="foot" v="yes"/>
+		<tag k="bicycle" v="no"/>
+		<tag k="highway" v="path"/>
+		<tag k="surface" v="dirt"/>
+	</way>
